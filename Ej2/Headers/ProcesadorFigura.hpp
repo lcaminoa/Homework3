@@ -1,16 +1,11 @@
 #ifndef PROCESADORFIGURA_HPP
 #define PROCESADORFIGURA_HPP
-
 #include <iostream>
 #include <cmath>
 #include "Rectangulo.hpp"
 #include "Circulo.hpp"
 #include "Elipse.hpp"
 
-/**
- * @brief Clase plantilla para procesar figuras y calcular su área.
- * @tparam T Tipo de figura.
- */
 template <typename T>
 class ProcesadorFigura {
 public:

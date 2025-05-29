@@ -1,6 +1,5 @@
 #ifndef PRESION_HPP
 #define PRESION_HPP
-
 #include "MedicionBase.hpp"
 
 class Presion : public MedicionBase {

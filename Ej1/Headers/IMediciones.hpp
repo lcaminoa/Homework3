@@ -1,6 +1,5 @@
 #ifndef IMEDICIONES_HPP
 #define IMEDICIONES_HPP
-
 #include <iostream>
 #include <fstream>
 

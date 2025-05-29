@@ -1,6 +1,5 @@
 #ifndef POSICION_HPP
 #define POSICION_HPP
-
 #include "MedicionBase.hpp"
 
 class Posicion : public MedicionBase {

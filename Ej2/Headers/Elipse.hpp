@@ -1,6 +1,5 @@
 #ifndef ELIPSE_HPP
 #define ELIPSE_HPP
-
 #include "Punto.hpp"
 
 class Elipse {

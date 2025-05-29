@@ -1,6 +1,5 @@
 #ifndef MEDICIONBASE_HPP
 #define MEDICIONBASE_HPP
-
 #include <memory>
 #include "IMediciones.hpp"
 

@@ -1,8 +1,8 @@
 #include "../Headers/Punto.hpp"
 
 void Punto::setX(float newX) {
-        x = newX;
-    }
+    x = newX;
+}
 
 void Punto::setY(float newY) {
     y = newY;

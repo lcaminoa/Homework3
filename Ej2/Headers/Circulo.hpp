@@ -1,6 +1,5 @@
 #ifndef CIRCULO_HPP
 #define CIRCULO_HPP
-
 #include "Punto.hpp"
 
 class Circulo {

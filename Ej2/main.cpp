@@ -3,11 +3,10 @@
 #include "./Headers/Elipse.hpp"
 #include "./Headers/Rectangulo.hpp"
 #include "./Headers/ProcesadorFigura.hpp"
-
 #include <iostream>
 #include <string>
 
-class FiguraRara {};
+class FiguraRara {}; // Para probar cuando no funciona
 
 int main() {
     Circulo c(4, 2, 5);
