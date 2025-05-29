@@ -14,7 +14,7 @@ public:
      * @param newY Coordenada Y del centro.
      * @param newRad Radio del círculo.
      */
-    Circulo(float newX = 0, float newY = 0, float newRad = 1) : centro(newX, newY), radio(newRad) {}
+    Circulo(float newX = 0, float newY = 0, float newRad = 1);
 
     /**
      * @brief Settea el centro del círculo.

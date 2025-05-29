@@ -16,7 +16,7 @@ public:
      * @param newAncho Ancho del rectángulo.
      * @param newLargo Largo del rectángulo.
      */
-    Rectangulo(float newX = 0, float newY = 0, float newAncho = 1, float newLargo = 1): vertInfIzq(newX, newY), ancho(newAncho), largo(newLargo) {}
+    Rectangulo(float newX = 0, float newY = 0, float newAncho = 1, float newLargo = 1);
 
     /**
      * @brief Settea el vértice inferior izquierdo.

@@ -15,7 +15,7 @@ public:
      * @param newA Semieje mayor.
      * @param newB Semieje menor.
      */
-    Elipse(float newX = 0, float newY = 0, float newA = 1, float newB = 1) : centro(newX, newY), A(newA), B(newB) {}
+    Elipse(float newX = 0, float newY = 0, float newA = 1, float newB = 1);
 
     /**
      * @brief Settea el centro de la elipse.

@@ -11,7 +11,7 @@ public:
      * @param newX Coordenada X.
      * @param newY Coordenada Y.
      */
-    Punto(float newX = 0, float newY = 0) : x(newX), y(newY) {}
+    Punto(float newX = 0, float newY = 0);
 
     /**
      * @brief Settea la coordenada X.
