@@ -1,6 +1,6 @@
 #include "../Headers/Elipse.hpp"
 
-Elipse::Elipse(float newX = 0, float newY = 0, float newA = 1, float newB = 1) : centro(newX, newY), A(newA), B(newB) {}
+Elipse::Elipse(float newX, float newY, float newA, float newB) : centro(newX, newY), A(newA), B(newB) {}
 
 void Elipse::setCentro(float newX, float newY) {
     centro.setPoint(newX, newY);

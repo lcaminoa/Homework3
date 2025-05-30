@@ -1,6 +1,6 @@
 #include "../Headers/Punto.hpp"
 
-Punto::Punto(float newX = 0, float newY = 0) : x(newX), y(newY) {}
+Punto::Punto(float newX, float newY) : x(newX), y(newY) {}
 
 void Punto::setX(float newX) {
     x = newX;

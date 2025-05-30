@@ -1,6 +1,6 @@
 #include "../Headers/Circulo.hpp"
 
-Circulo::Circulo(float newX = 0, float newY = 0, float newRad = 1) : centro(newX, newY), radio(newRad) {}
+Circulo::Circulo(float newX, float newY, float newRad) : centro(newX, newY), radio(newRad) {}
 
 void Circulo::setCentro(float newX, float newY) {
     centro.setPoint(newX, newY);

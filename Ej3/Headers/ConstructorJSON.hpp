@@ -9,4 +9,4 @@ public:
     static void imprimirJSON(const GeneradorParcial& g);
 };
 
-#endif // CONSTRUCTORJSON_HPP
+#endif //CONSTRUCTORJSON_HPP

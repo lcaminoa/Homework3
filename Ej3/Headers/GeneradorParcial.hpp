@@ -40,4 +40,4 @@ public:
     }
 };
 
-#endif // GENERADORPARCIAL_HPP
+#endif //GENERADORPARCIAL_HPP
